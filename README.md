@@ -16,7 +16,7 @@
 
 - 💬 Ask me about what paper I'm currently interested in.
 
-- 📫 You can reach me at [pax.newman@gmail](mailto:pax.newman@gmail.com), on [LinkedIn](https://www.linkedin.com/in/patrick-newman-61a252155/) or on discord at Burn#2505.
+- 📫 You can reach me at [pax.newman@gmail](mailto:pax.newman@gmail.com), on [LinkedIn](https://www.linkedin.com/in/patrick-newman-61a252155/) or on Discord at Burn#2505.
 
 <!--
 **Pax-Newman/Pax-Newman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
