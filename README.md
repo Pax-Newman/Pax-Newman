@@ -8,11 +8,12 @@
 
 - 🔭 I'm working on:
     - 🌲 Creating an inventory management website for a geological engineering company.
+    - 👂 Researching few-shot audio classification to detect and classify events in audio from just a few example of the event.
     - 🍎 Working with my school to research best practices for teaching CS students about biases in AI and developing curriculum for it.
 
-- 🌱 Right now I'm learning GoLang and the Elm Architecture by building a typing game for your terminal available over SSH.
+- 🌱 Right now I'm learning GoLang by building useful tools for your terminal.
 
-- 💛 Passionate about getting more people into programming and democratizing AI for everyone.
+- 💛 Passionate about getting more people into programming and making AI more accessible & ethical.
 
 - 💬 Ask me about what paper I'm currently interested in.
 
