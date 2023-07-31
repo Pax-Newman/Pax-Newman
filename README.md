@@ -7,7 +7,7 @@
 - 🤝 Outside of class I was a captain for the Whatcom Coders Club, teaching programming concepts and helping students prepare for interviews. I'm also a member of the Association for Gender Inclusion in Computing.
 
 - 🔭 I'm working on:
-    - 👂 Development novel machine learning models to accurately predict the damage when a heterogeneous material is torn.
+    - 👂 Developing novel machine learning models to accurately predict the damage when a heterogeneous material is torn.
     - 🍎 Working with my school to research best practices for teaching CS students about biases in AI and developing curriculum for it.
 
 - 🌱 Right now I'm bolstering my GoLang skills by building useful tools for your terminal.
