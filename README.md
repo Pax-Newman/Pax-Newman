@@ -1,20 +1,17 @@
 <h2 align=center> Hi there 👋, I'm Pax </h2>
 
-- 🏫 I just graduated with a bachelors Computer Science with a minor in UX Design at Western Washington University in Bellingham, WA, USA.
-
-- 💼 I'm currently looking for a job. Reach out to me anytime, I'd love to talk!
-
-- 🤝 Outside of class I was a captain for the Whatcom Coders Club, teaching programming concepts and helping students prepare for interviews. I'm also a member of the Association for Gender Inclusion in Computing.
+- 🏫 I just graduated with a bachelors in Computer Science with a minor in UX Design at Western Washington University
 
 - 🔭 I'm working on:
-    - 🔬 Developing novel machine learning models to accurately predict the damage when a heterogeneous material is torn.
-    - 🍎 Working with my school to research best practices for teaching CS students about biases in AI and developing curriculum for it.
+    - Working through [Writing An Interpreter In Go](https://interpreterbook.com/)
+    - Making [modules for Lua](https://github.com/Pax-Newman/lutils) for the simple joy of programming
+    - Building a project with [Redbean](https://redbean.dev/) and [Fullmoon](https://github.com/pkulchenko/fullmoon)
 
-- 🌱 Right now I'm bolstering my GoLang skills by building useful tools for your terminal.
+- 🌱 Right now I'm pretty obsessed with learning about compiliers and JITs
 
-- 💛 Passionate about getting more people into programming and making AI more accessible & ethical.
+- 💛 Passionate about getting more people into programming and making AI more accessible & ethical
 
-- 💬 Ask me about what paper I'm currently interested in.
+- 💬 Ask me about what paper I'm currently interested in
 
 - 📫 You can reach me at [pax.newman@gmail](mailto:pax.newman@gmail.com), on [LinkedIn](https://www.linkedin.com/in/pax-newman-61a252155/) or on Discord at Burn#2505.
 
